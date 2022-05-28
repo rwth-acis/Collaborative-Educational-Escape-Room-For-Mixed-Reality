@@ -29,7 +29,8 @@ You can choose who can enter the game that you are playing by using your own Pho
 
 
 
-
+Feel free to provide us with feedback and ideas for future projects on the Requiremenets Bazaar page.
+https://requirements-bazaar.org/projects/501
 
 
 
