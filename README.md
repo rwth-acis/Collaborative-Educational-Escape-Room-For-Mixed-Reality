@@ -12,6 +12,8 @@ How To Play Egyptian Escape on your Local Computer:
 4. Repeat the steps 1-3 on another device.
 5. Now you can play the game with a parner.
 
+
+
 How To Play Egyptian Escape on your HoloLens device:
 1. Follow the steps 1-3 mentioned above.
 2. Go to Build Settings on Unity, choose Universal Windows Platform as your target platform.
@@ -19,6 +21,9 @@ How To Play Egyptian Escape on your HoloLens device:
 4. In your Builds folder, open the ".sln" folder.
 5. Follow the remaining steps here: https://www.youtube.com/watch?v=jNyF4Whh_Uw&ab_channel=ACISGroup%2CRWTHAachenUniversity
 6. Enjoy!
+Hint: When you open the game on the HoloLens, it will render at your height, and on your left. 
+
+
 
 Extra: How to Change your Photon App ID:
 You can choose who can enter the game that you are playing by using your own Photon App ID. This way, anyone who has the same App ID on their game can collaborate with you. 
